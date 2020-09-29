@@ -142,7 +142,7 @@ git clone https://github.com/X-CASH-official/delegates-pool-website.git
 #### Install dependencies
 
 ```shell
-~cd /delegates-pool-website
+cd delegates-pool-website
 npm install
 ```
 
