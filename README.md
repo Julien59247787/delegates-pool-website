@@ -28,7 +28,7 @@
   - [Develop](#develop)
   - [Testing](#testing)
 
-## Features
+## Various Features
 
 **Voters payout**  
 Automatically pay voters, and provide them with their payment history.
